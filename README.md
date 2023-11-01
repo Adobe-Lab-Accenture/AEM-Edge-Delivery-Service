@@ -2,7 +2,7 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--aem-edge-delivery-service--adobe-lab-accenture.hlx/.page/
+- Preview: https://main--aem-edge-delivery-service--adobe-lab-accenture.hlx.page/
 - Live: https://main--aem-edge-delivery-service--adobe-lab-accenture.hlx.live/
 
 ## Installation
